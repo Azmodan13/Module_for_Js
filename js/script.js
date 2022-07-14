@@ -1,4 +1,4 @@
-// console.log(items)
+
 
 function createProduct(imgUrl, Name, inStock, price, reviews) {
     const main = document.querySelector('.col-main');
